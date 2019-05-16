@@ -204,8 +204,8 @@
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 284,
-                    "y": 291,
+                    "x": 282,
+                    "y": 287,
                     "uniqueID": 606028,
                     "ioValues": [
                         {
@@ -242,8 +242,8 @@
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 518,
-                    "y": 287,
+                    "x": 522,
+                    "y": 293,
                     "uniqueID": 934230,
                     "ioValues": [
                         {
